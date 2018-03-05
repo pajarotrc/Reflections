@@ -1,0 +1,55 @@
+﻿How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+   El soft dejo de funcionar despues de un cambio. El hecho de aislar las diferencias entre una version y la otra hace que salte a la vista el error.
+Estoy acostumbrado a usar el control de cambios de visualstudio que es fantastico. Veremos que puede ofrecerme esta plataforma libre.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+   Por que permite revisar cambios de una manera agil. Pueden aparecer bugs al hacer cambios, sobre todo en programas grandes.
+   Contrastar versiones con y sin el bug muestra rapidamente donde estan los errores-
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   La principal ventaja es que uno puede comentar los cambios y elegir cuando el codigo esta listo para ser guardado.
+   Como desventaja veo que no commitear periodicamente puede hacer que no haya verdaderamente un control de cambios.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Por que esta pensando para el desarrollo de software en el que dificilmente se trabaja con solo un archivo especifico, por lo general
+    se hace con varios archivos en paralelo. Esta manera de trabajar es una ventaja, los cambios se guardan como cambios agrupados. Se puede ir commiteando
+    las diferentes funcionalidades adquiridas.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    No probe usar la consola aun, cuando la pruebe vuelvo sobre esta linea.
+
+How might using version control make you more confident to make changes that could break something?
+
+   Por que en caso de romper todo se puede volver atras a una version estable, previa a las modificaciones.
+   Ademas puedo ir probando el soft en diferentes puntos para encontrar donde se rompio y que codigo es el culpable.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Para desarrollar mis aplicaciones en android.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Permite recuperar estados anteriores de un archivo, conocer que tipos de cambios se hicieron y quien los hizo. Toda esta información acelera los tiempos de
+    desarrollo de una aplicacion. Permite un avance documentado y la posibilidad de trabajar de manera ordenada en equipos de desarrollo.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    Por lo contestado en la linea 23 a 25
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log permite ver el control de cambios de un repositorio. Al parecer los repositorios se guardan en carpetas.
+    git diff contrasta las diferencias de dos versiones
+
+
+
