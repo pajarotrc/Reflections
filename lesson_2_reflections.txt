@@ -5,15 +5,18 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-	dont know
+	El area staging es un area intermedia que permite separar el directorio de trabajo con el repositorio. prepara los cambios para comitearlos despues.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-	
+	El staging ayuda a visualizar que archivos se estan por commitear, por ende permite ordenar logicamente cada subida de archivos para asi tener un historial claro
+	en el repositorio.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	Sirve para generar arboles de programacion, por ejemplo mods experimentales, diferentes idiomas, etc.
 
 How do the diagrams help you visualize the branch structure?
 
