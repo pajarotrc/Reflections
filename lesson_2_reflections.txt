@@ -19,6 +19,8 @@ organized? How would branches help?
 	Sirve para generar arboles de programacion, por ejemplo mods experimentales, diferentes idiomas, etc.
 
 How do the diagrams help you visualize the branch structure?
+	
+	Los diagramas simplifican la manera de ver los distintos caminos (branch) de desarrollo.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
